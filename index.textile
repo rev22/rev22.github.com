@@ -3,9 +3,11 @@ layout: default
 title: Michele Bini
 ---
 
+h2. Michele Bini's Libre Software Portfolio
+
 I'm currently maintaining some Emacs modes:
 
-* mythryl-mode
+* "Mythryl Mode":mythryl-mode 
 * lojban-mode
 
 Online coding profiles:
