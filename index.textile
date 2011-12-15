@@ -1,0 +1,13 @@
+I'm currently maintaining some Emacs modes:
+
+* mythryl-mode
+* lojban-mode
+
+Online coding profiles:
+
+* http://savannah.nongnu.org/users/rev22
+* http://github.com/rev22
+* http://gitorious.org/~rv22
+* https://bitbucket.org/rev22
+
+My .deb software distribution: https://launchpad.net/~michele-bini
