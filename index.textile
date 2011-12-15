@@ -5,16 +5,16 @@ title: Michele Bini
 
 h2. Michele Bini's Libre Software Portfolio
 
-I'm currently maintaining some Emacs modes:
+I'm currently maintaining some Emacs modes, including:
 
-* "Mythryl Mode":mythryl-mode 
-* lojban-mode
+* **Mythryl Mode** "(Git archive)":http://github.com/rev22/mythryl-mode
+* **Lojban Mode** "(Lojban Mode)":http://www.emacswiki.org/emacs/LojbanMode
 
 Online coding profiles:
 
-* http://savannah.nongnu.org/users/rev22
-* http://github.com/rev22
-* http://gitorious.org/~rv22
-* https://bitbucket.org/rev22
+* "GitHub.com":http://github.com/rev22
+* "Gitorious.org":http://gitorious.org/~rv22
+* "BitBucket.org:"https://bitbucket.org/rev22
+* "Savannah.nongnu.org":http://savannah.nongnu.org/users/rev22
 
 My .deb software distribution: https://launchpad.net/~michele-bini
