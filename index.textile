@@ -14,7 +14,7 @@ Online coding profiles:
 
 * "GitHub.com":http://github.com/rev22
 * "Gitorious.org":http://gitorious.org/~rv22
-* "BitBucket.org:"https://bitbucket.org/rev22
+* "BitBucket.org":https://bitbucket.org/rev22
 * "Savannah.nongnu.org":http://savannah.nongnu.org/users/rev22
 
 My .deb software distribution: https://launchpad.net/~michele-bini
