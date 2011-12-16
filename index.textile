@@ -19,4 +19,4 @@ I'm also distributing some Mythryl-related packages for Debian, Ubuntu and simil
 * "[Package Archive]":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+packages
 * Direct .deb links:
 ** "<b>mythryl 6.1.0</b>-1ppamb41":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.1.0-1ppamb41_i386.deb _Type-safe, flexible, fast programming language_
-**"<b>mythryl-mode</b> <b>2.4.6.deb3</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode2.4.6.deb3_all.deb _Emacs mode for editing Mythryl code_
+** "<b>mythryl-mode</b> <b>2.4.6.deb3</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode2.4.6.deb3_all.deb _Emacs mode for editing Mythryl code_
