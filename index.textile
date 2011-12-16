@@ -5,6 +5,8 @@ title: Michele Bini
 
 h2. Michele Bini's "Libre Software":http://en.wikipedia.org/wiki/Libre_Software Portfolio
 
+h3. Emacs modes
+
 I'm maintaining some Emacs modes, including:
 
 * **Mythryl Mode** "(Git archive)":http://github.com/rev22/mythryl-mode
@@ -16,7 +18,7 @@ h3. Debian packages
 
 I'm also distributing some Mythryl-related packages for Debian, Ubuntu and similar GNU/Linux flavours:
 
-* "[Package Archive]":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+packages
+* "<b>Package Archive</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+packages
 * Direct .deb links:
 ** "<b>mythryl 6.1.0</b>-1ppamb41":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.1.0-1ppamb41_i386.deb _Type-safe, flexible, fast programming language_
 ** "<b>mythryl-mode</b> <b>2.4.18.deb14</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode_2.4.18.deb14_all.deb _Emacs mode for editing Mythryl code_
