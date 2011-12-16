@@ -8,7 +8,7 @@ h2. Michele Bini's "Libre Software":http://en.wikipedia.org/wiki/Libre_Software 
 I'm maintaining some Emacs modes, including:
 
 * **Mythryl Mode** "(Git archive)":http://github.com/rev22/mythryl-mode
-* **Lojban Mode** "(Lojban Mode)":http://www.emacswiki.org/emacs/LojbanMode
+* **Lojban Mode** "(EmacsWiki)":http://www.emacswiki.org/emacs/LojbanMode
 
 Online coding profiles: "[GitHub.com]":http://github.com/rev22 "[Gitorious.org]":http://gitorious.org/~rv22 "[BitBucket.org]":https://bitbucket.org/rev22 "[Savannah.nongnu.org]":http://savannah.nongnu.org/users/rev22
 
