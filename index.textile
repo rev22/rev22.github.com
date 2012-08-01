@@ -16,7 +16,7 @@ Online coding profiles: "[<b>GitHub</b>.com]":http://github.com/rev22 "[<b>Gitor
 
 h3. Debian packages
 
-I'm also distributing some Mythryl-related packages for Debian, Ubuntu and similar GNU/Linux flavours:
+I'm also distributing some "Mythryl":http://www.mythryl.org related packages for Debian, Ubuntu and similar GNU/Linux flavours:
 
 * "<b>Package Archive</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+packages
 * Direct .deb links:
