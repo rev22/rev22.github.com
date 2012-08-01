@@ -9,7 +9,7 @@ Online coding profiles: "[<b>GitHub</b>.com]":http://github.com/rev22 "[<b>Gitor
 
 h3. Emacs modes
 
-I'm maintaining some Emacs modes, including:
+I'm maintaining some "Emacs":https://www.gnu.org/software/emacs/ modes, including:
 
 * **Mythryl Mode** "(Git archive)":http://github.com/rev22/mythryl-mode
 * **Lojban Mode** "(EmacsWiki)":http://www.emacswiki.org/emacs/LojbanMode
