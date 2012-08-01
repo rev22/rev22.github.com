@@ -25,7 +25,7 @@ I'm also distributing some "Mythryl":http://www.mythryl.org related packages for
 
 h3. Web applications
 
-* **udid2js** "(GitHub page)":http://github.com/rev22/udid2js "(test)":http://rev22.github.com/udid2js - An ID generator for the "Open-UDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
+* "**udid2js**":http://rev22.github.com/udid2js "(GitHub page)":http://github.com/rev22/udid2js - An ID generator for the "Open-UDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
 
 ----
 
