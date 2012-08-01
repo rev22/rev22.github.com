@@ -23,6 +23,10 @@ I'm also distributing some Mythryl-related packages for Debian, Ubuntu and simil
 ** "<b>mythryl 6.1.0</b>-1ppamb41":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.1.0-1ppamb41_i386.deb _Type-safe, flexible, fast programming language_
 ** "<b>mythryl-mode</b> <b>2.4.18.deb14</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode_2.4.18.deb14_all.deb _Emacs mode for editing Mythryl code_
 
+h3. Web applications
+
+* **udid2js**:http://github.com/rev22/udid2js - An ID generator for the "Open-UDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
+
 ----
 
 h5. Background is "Comanche, Mars":http://en.wikipedia.org/wiki/Carbonates_on_Mars, courtesy of NASA/JPL
