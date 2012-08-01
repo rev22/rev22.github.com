@@ -3,9 +3,9 @@ layout: default
 title: Software Portfolio - Michele Bini
 ---
 
-Online coding profiles: "[<b>GitHub</b>.com]":http://github.com/rev22 "[<b>Gitorious</b>.org]":http://gitorious.org/~rv22 "[<b>BitBucket</b>.org]":https://bitbucket.org/rev22 "[<b>Savannah</b>.nongnu.org]":http://savannah.nongnu.org/users/rev22
-
 h2. Michele Bini's "Libre Software":http://en.wikipedia.org/wiki/Libre_Software Portfolio
+
+Online coding profiles: "[<b>GitHub</b>.com]":http://github.com/rev22 "[<b>Gitorious</b>.org]":http://gitorious.org/~rv22 "[<b>BitBucket</b>.org]":https://bitbucket.org/rev22 "[<b>Savannah</b>.nongnu.org]":http://savannah.nongnu.org/users/rev22
 
 h3. Emacs modes
 
