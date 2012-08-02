@@ -4,12 +4,16 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 
 body,div,dl,dt,dd,ul,ol,li,pre,form,fieldset,p,blockquote,th,td {
     font-size:14px;
-    line-height:21px;
+    line-height:22px;
     font-family: helvetica,arial,sans-serif;
 }
 
+hr {
+    margin-top: 22px;
+}
+
 p,li,h1,h2,h3,h4,h5,h6 {
-    margin-left: 21px;
+    margin-left: 22px;
 }
 
 ul {
@@ -17,26 +21,26 @@ ul {
 }
 
 h1,h2 {
-    font-size:22px;
-    line-height:42px;
-    margin-top:21px;
+    font-size: 24px;
+    line-height: 44px;
+    margin-top: 22px;
 }
 
 h3,h4 {
-    font-size:18px;
-    line-height:21px;
-    margin-top:21px;
+    font-size: 18px;
+    line-height:22px;
+    margin-top: 22px;
 }
 
 h5,h6 {
-    font-size:12px;
-    line-height:21px;
+    font-size: 12px;
+    line-height: 22px;
     font-weight: medium;
 }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: times,serif;
-    text-shadow: 0 0 1px black, 0 0 21px #c52;
+    text-shadow: 0 0 1px black, 0 0 14px #c52;
 }
 
 body {
