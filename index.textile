@@ -20,8 +20,8 @@ I'm also distributing some "Mythryl":http://www.mythryl.org related packages for
 
 * "<b>Package Archive</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+packages
 * Direct .deb links:
-** "<b>mythryl 6.1.0</b>-1ppamb41":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.1.0-1ppamb41_i386.deb _Type-safe, flexible, fast programming language_
-** "<b>mythryl-mode</b> <b>2.4.18.deb14</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode_2.4.18.deb14_all.deb _Emacs mode for editing Mythryl code_
+** "<b>mythryl 6.2.0</b>-1ppamb44":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.2.0-1ppamb44_i386.deb _Type-safe, flexible, fast programming language_
+** "<b>mythryl-mode</b> <b>2.5.46.deb32</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode_2.5.46.deb32_all.deb _Emacs mode for editing Mythryl code_
 
 h3. Web applications
 
