@@ -1,12 +1,52 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td,hr {
+    margin: 0; padding: 0;
+}
+
+body,div,dl,dt,dd,ul,ol,li,pre,form,fieldset,p,blockquote,th,td {
+    font-size:14px;
+    line-height:21px;
+    font-family: helvetica,arial,sans-serif;
+}
+
+p,li,h1,h2,h3,h4,h5,h6 {
+    margin-left: 21px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+h1,h2 {
+    font-size:22px;
+    line-height:42px;
+    margin-top:21px;
+}
+
+h3,h4 {
+    font-size:18px;
+    line-height:21px;
+    margin-top:21px;
+}
+
+h5,h6 {
+    font-size:12px;
+    line-height:21px;
+    font-weight: medium;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: times,serif;
+    text-shadow: 0 0 1px black, 0 0 21px #c52;
+}
+
 body {
     background: #000000 url(comanche.jpg) no-repeat center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: #ddddff;
+    color: white;
     font-family: serif;
+    opacity: 0.85;
 }
 a { color: #ffff99; text-decoration: none; }
-h1, h2, h3, h4, h5 { opacity: 0.7; font-family: sans-serif; font-weight: 900; padding: 0.2em; spacing: 0; margin: 0; }
-h5 { text-size: 70%; font-weight: 300; }
