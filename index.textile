@@ -30,6 +30,11 @@ h3. Web applications
 ** "**Allow updating email address and name**":http://www.fossfactory.org/project/p302
 ** "**Unachievable duties**":http://www.fossfactory.org/project/p143
 
+h3. Cryptography and algorithms
+
+* "**High-performance functional deques for the Mythryl programming language**":https://bitbucket.org/rev22/finger-deques/overview
+* "**Portable implementation of the Curve25519 cryptography function**":https://savannah.nongnu.org/projects/curve255lib/
+
 ----
 
 h5. Background is "Comanche, Mars":http://en.wikipedia.org/wiki/Carbonates_on_Mars, courtesy of NASA/JPL
