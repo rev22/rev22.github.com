@@ -27,13 +27,13 @@ h3. Web applications
 
 * "**udid2js**":http://rev22.github.com/udid2js "(GitHub page)":http://github.com/rev22/udid2js - An ID generator for the "OpenUDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
 * Two of the bounties I won for the "FOSS Factory":http://www.fossfactory.org e-commerce platform (PHP):
-** "**Allow updating email address and name**":http://www.fossfactory.org/project/p302
-** "**Unachievable duties**":http://www.fossfactory.org/project/p143
+** "**“Allow updating email address and name„**":http://www.fossfactory.org/project/p302
+** "**“Unachievable duties„**":http://www.fossfactory.org/project/p143
 
 h3. Cryptography and algorithms
 
-* "**High-performance functional deques for the Mythryl programming language**":https://bitbucket.org/rev22/finger-deques/overview
-* "**Portable implementation of the Curve25519 cryptography function**":https://savannah.nongnu.org/projects/curve255lib/
+* "**“High-performance functional deques for the Mythryl programming language„**":https://bitbucket.org/rev22/finger-deques/overview
+* "**“Portable implementation of the Curve25519 cryptography function„**":https://savannah.nongnu.org/projects/curve255lib/
 
 ----
 
