@@ -3,7 +3,7 @@ layout: default
 title: Software Portfolio - Michele Bini
 ---
 
-**/Michele Bini/** "<michele.bini@gmail.com>":mailto:michele.bini@gmail.com <br/>
+**__Michele Bini__** "<michele.bini@gmail.com>":mailto:michele.bini@gmail.com <br/>
 on "[<b>GitHub</b>.com]":http://github.com/rev22 "[<b>Gitorious</b>.org]":http://gitorious.org/~rv22 "[<b>BitBucket</b>.org]":https://bitbucket.org/rev22 "[<b>Savannah</b>.nongnu.org]":http://savannah.nongnu.org/users/rev22
 
 <!--
