@@ -24,7 +24,7 @@ h3. Cryptography and algorithms
 
 h3. Graphics
 
-* "**Perspective corrected photo cropping tool**":https://bitbucket.org/rev22/photocrop Image processing tool that allows to crop a portion of a photo off the center, while removing the perpective distortion resulting from the simple 2d algorythms that are common in graphics editors.
+* "**Perspective corrected photo cropping tool**":https://bitbucket.org/rev22/photocrop - Image processing tool that allows to crop a portion of a photo off the center, while removing the perpective distortion resulting from the simple 2d algorythms that are common in graphics editors.
 
 h3. Emacs modes
 
