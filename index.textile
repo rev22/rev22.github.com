@@ -44,4 +44,4 @@ I'm also distributing some "Mythryl":http://www.mythryl.org related packages for
 
 ----
 
-h5. Background is "Comanche, Mars":http://en.wikipedia.org/wiki/Carbonates_on_Mars, courtesy of NASA/JPL
+<small>Background is "Comanche, Mars":http://en.wikipedia.org/wiki/Carbonates_on_Mars, courtesy of NASA/JPL</small>
