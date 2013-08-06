@@ -9,30 +9,39 @@ title: Software Portfolio - Michele Bini
 h2. Michele Bini's "Libre Software":http://en.wikipedia.org/wiki/Libre_Software Portfolio
 -->
 
+<div style=alongsideCnt>
+<div style=alongside>
 h3. Web applications
 
 * "**udid2js**":http://rev22.github.com/udid2js "(GitHub page)":http://github.com/rev22/udid2js - An ID generator for the "OpenUDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
 * Two of the bounties I won for the "FOSS Factory":http://www.fossfactory.org e-commerce platform (PHP):
 ** "**“Allow updating email address and name”**":http://www.fossfactory.org/project/p302
 ** "**“Unachievable duties”**":http://www.fossfactory.org/project/p143
+</div>
 
+<div style=alongside>
 h3. Cryptography and algorithms
 
 * "**“High-performance functional deques for the Mythryl programming language”**":https://bitbucket.org/rev22/finger-deques/overview
 * "**“Portable implementation of the Curve25519 cryptography function”**":https://savannah.nongnu.org/projects/curve255lib/
+</div>
 
-
+<div style=alongside>
 h3. Graphics
 
 * "**Perspective corrected photo cropping tool**":https://bitbucket.org/rev22/photocrop - Image processing tool that allows to crop a portion of a photo off the center, while removing the perpective distortion resulting from the simple 2D algorithms that are common in graphics editors.
+</div>
 
+<div style=alongside>
 h3. Emacs modes
 
 I'm maintaining some "Emacs":https://www.gnu.org/software/emacs/ modes, including:
 
 * **Mythryl Mode** "(Git archive)":http://github.com/rev22/mythryl-mode
 * **Lojban Mode** "(EmacsWiki)":http://www.emacswiki.org/emacs/LojbanMode
+</div>
 
+<div style=alongside>
 h3. Debian packages
 
 I'm also distributing some "Mythryl":http://www.mythryl.org related packages for Debian, Ubuntu and similar GNU/Linux flavours:
@@ -41,6 +50,8 @@ I'm also distributing some "Mythryl":http://www.mythryl.org related packages for
 * Direct .deb links:
 ** "<b>mythryl 6.2.0</b>-1ppamb44":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl_6.2.0-1ppamb44_i386.deb _Type-safe, flexible, fast programming language_
 ** "<b>mythryl-mode</b> <b>2.5.46.deb32</b>":https://launchpad.net/~michele-bini/+archive/ppa-mbxxii/+files/mythryl-mode_2.5.46.deb32_all.deb _Emacs mode for editing Mythryl code_
+</div>
+</div>
 
 ----
 

@@ -55,3 +55,23 @@ body {
     opacity: 0.85;
 }
 a { color: #ffff99; text-decoration: none; }
+
+/* alongsideDiv: http://rev22.github.com/alongsideDiv */
+
+.alongsideCnt {
+  vertical-align:  top;
+  text-align:      center;
+}
+.alongside {
+  max-width:       25em;
+  display:         inline-block;
+  vertical-align:  top;
+  padding:         1em;
+  overflow:        hidden;
+}
+.alongside:hover {
+  overflow: auto;
+}
+.alongside > * {
+  vertical-align: baseline;
+}
