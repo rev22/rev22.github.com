@@ -9,8 +9,8 @@ title: Software Portfolio - Michele Bini
 h2. Michele Bini's "Libre Software":http://en.wikipedia.org/wiki/Libre_Software Portfolio
 -->
 
-<div style=alongsideCnt>
-<div style=alongside>
+<div class=alongsideCnt>
+<div class=alongside>
 h3. Web applications
 
 * "**udid2js**":http://rev22.github.com/udid2js "(GitHub page)":http://github.com/rev22/udid2js - An ID generator for the "OpenUDC":http://www.openudc.org project, based on Javascript and JSON queries to geonames.org
@@ -19,20 +19,20 @@ h3. Web applications
 ** "**“Unachievable duties”**":http://www.fossfactory.org/project/p143
 </div>
 
-<div style=alongside>
+<div class=alongside>
 h3. Cryptography and algorithms
 
 * "**“High-performance functional deques for the Mythryl programming language”**":https://bitbucket.org/rev22/finger-deques/overview
 * "**“Portable implementation of the Curve25519 cryptography function”**":https://savannah.nongnu.org/projects/curve255lib/
 </div>
 
-<div style=alongside>
+<div class=alongside>
 h3. Graphics
 
 * "**Perspective corrected photo cropping tool**":https://bitbucket.org/rev22/photocrop - Image processing tool that allows to crop a portion of a photo off the center, while removing the perpective distortion resulting from the simple 2D algorithms that are common in graphics editors.
 </div>
 
-<div style=alongside>
+<div class=alongside>
 h3. Emacs modes
 
 I'm maintaining some "Emacs":https://www.gnu.org/software/emacs/ modes, including:
@@ -41,7 +41,7 @@ I'm maintaining some "Emacs":https://www.gnu.org/software/emacs/ modes, includin
 * **Lojban Mode** "(EmacsWiki)":http://www.emacswiki.org/emacs/LojbanMode
 </div>
 
-<div style=alongside>
+<div class=alongside>
 h3. Debian packages
 
 I'm also distributing some "Mythryl":http://www.mythryl.org related packages for Debian, Ubuntu and similar GNU/Linux flavours:
