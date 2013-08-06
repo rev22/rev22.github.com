@@ -63,7 +63,7 @@ a { color: #ffff99; text-decoration: none; }
   text-align:      center;
 }
 .alongside {
-  max-width:       25em;
+  max-width:       27em;
   display:         inline-block;
   vertical-align:  top;
   padding:         1em;
@@ -75,3 +75,4 @@ a { color: #ffff99; text-decoration: none; }
 .alongside > * {
   vertical-align: baseline;
 }
+ul { text-align:left }
